@@ -1,0 +1,6 @@
+Employees are entitled to 20 paid leaves annually.
+Unused leaves can be carried forward up to a maximum of 10 days.
+Sick leave does not require pre-approval but must be reported within 24 hours.
+Maternity leave is 26 weeks as per Indian labor law.
+Paternity leave is 10 working days.
+All leave requests should be submitted via the HRMS portal.

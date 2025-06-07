@@ -1,0 +1,5 @@
+Health insurance coverage includes self, spouse, and up to 2 children.
+The company provides term life insurance up to ₹20 lakhs.
+Employees can claim wellness benefits of ₹10,000 per year.
+ESIC coverage applies to employees earning less than ₹21,000/month.
+To add a dependent, raise a ticket in the HRMS under 'Benefits'.

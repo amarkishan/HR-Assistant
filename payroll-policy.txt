@@ -1,0 +1,5 @@
+Salaries are processed on the 28th of every month.
+Payslips are available on the HRMS portal under the 'Payroll' section.
+Employees must update their bank account details at least 5 days before payroll.
+Tax declarations must be submitted by March 15th every year.
+Reimbursements are processed within 7 business days.
