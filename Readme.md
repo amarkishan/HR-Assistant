@@ -20,7 +20,7 @@ This project implements an HR assistant chatbot API using Flask, FAISS, Sentence
 
 ## Project Structure
 
-- **`five.py`**: Main application file containing the Flask API and chatbot logic.
+- **`test.py`**: Main application file containing the Flask API and chatbot logic.
 - **FAISS Index**: Stores embeddings for efficient retrieval of relevant document chunks.
 - **Metadata**: Contains information about the source and content of document chunks.
 
@@ -72,7 +72,7 @@ This project implements an HR assistant chatbot API using Flask, FAISS, Sentence
 
 2. **Run the Application**:
    ```bash
-   python five.py
+   python test.py
    ```
 
 3. **Send Queries**:
@@ -90,6 +90,3 @@ This project implements an HR assistant chatbot API using Flask, FAISS, Sentence
 - Expand document coverage for more HR topics.
 - Improve response generation with fine-tuned models.
 
-## License
-
-This project is licensed under the MIT License.
