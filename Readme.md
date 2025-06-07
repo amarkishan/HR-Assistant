@@ -90,6 +90,3 @@ This project implements an HR assistant chatbot API using Flask, FAISS, Sentence
 - Expand document coverage for more HR topics.
 - Improve response generation with fine-tuned models.
 
-## License
-
-This project is licensed under the MIT License.
