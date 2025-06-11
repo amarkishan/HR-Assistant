@@ -1,0 +1,8 @@
+I developed a personalized HRAssitant chatbot using RAG and LLM.To enable context-aware responses, 
+first  I have collected  both structured and unstructured documents and generated 
+vector embeddings for it and stored them in the open-source vector database FAISS.
+
+Later, when user submits query,it is transformed into vector embedding and compared against the stored vector 
+to retrieve relevant context.This retrieved context along with the user query  is 
+passed to the LLM - Mistral is used here which is an open source model accessed 
+via hugging face inference API. Finally, the model gives accurate and context-aware responses.
